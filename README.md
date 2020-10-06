@@ -1,2 +1,2 @@
 # OnlineVotingPHP
-We are developing a online Voting system for IIIT Kottayam collage
+We are developing an online Voting system for IIIT Kottayam college
